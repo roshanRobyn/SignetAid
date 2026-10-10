@@ -1,4 +1,4 @@
-# 🗣️ Sign2Sound Euphoria
+# 🗣️ SignetAid By Euphoria
 
 > **Bridging the gap between Sign Language and Spoken English with Real-Time, Edge-Computed AI.**
 
@@ -10,7 +10,7 @@
 ---
 
 ## 📖 Overview
-**Sign2Sound Euphoria** is a bi-directional Sign Language Translation system designed to run entirely on consumer-grade hardware (Offline-First). It eliminates the need for expensive cloud APIs or heavy server-grade GPUs.
+**SignetAid By Euphoria** is a bi-directional Sign Language Translation system designed to run entirely on consumer-grade hardware (Offline-First). It eliminates the need for expensive cloud APIs or heavy server-grade GPUs.
 
 By utilizing a novel **Dual-Expert Graph Neural Network (ST-GCN)** architecture, the system distinguishes between **Dynamic Words** (WLASL) and **Static Finger-Spelling** (ASL) in real-time. It integrates a **Small Language Model (SLM)** to correct raw glosses into grammatically natural English sentences.
 
@@ -69,8 +69,8 @@ We evaluated the system on a held-out test set (20% split) using an ASUS TUF A15
 ### Setup
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/Sign2Sound-Euphoria.git](https://github.com/yourusername/Sign2Sound-Euphoria.git)
-    cd Sign2Sound-Euphoria
+    git clone [https://github.com/roshanRobyn/SignetAid.git](https://github.com/roshanRobyn/SignetAid.git)
+    cd SignetAid
     ```
 
 2.  **Install Dependencies**
